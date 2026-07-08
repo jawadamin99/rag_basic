@@ -2,6 +2,7 @@
 
 
 Install requirements.
+
 pip install -r requriements.txt
 
 CD the directory and run the project by:
